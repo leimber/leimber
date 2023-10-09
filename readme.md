@@ -46,7 +46,7 @@ My name is Leire and I'n student of the full stack development bootcamp by [4gee
 
 - Spanish
 - English
-- Frech
+- French
 - (learning German but is so hard)
 
   ---
