@@ -1,8 +1,8 @@
 # Leire Martin-Berdinos
 
-Hi! Welcome to my new journey as future full stack developer. 
+Hi! Welcome to my new journey in tech
 
-My name is Leire and I'n student of the full stack development bootcamp by [4geeksacademy](https://github.com/4GeeksAcademy)
+
 
 
 
