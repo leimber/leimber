@@ -50,6 +50,7 @@ Hi! Welcome to my new journey in tech
 - English
 - French
 - (learning German but is so hard)
+- ALso learning Portuguese. So much easier and really beautiful
 
   ---
 
