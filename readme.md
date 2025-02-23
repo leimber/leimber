@@ -39,8 +39,8 @@ Hi! Welcome to my new journey in tech
 
 ---
 ### Education
-- Full stack developer student at [4Geeks Academy](https://4geeksacademy.com/)
-- Multimedia degree student at [UOC](https://www.uoc.edu/portal/es/index.html)
+- Artificial Intelligence and data analysis  at [Factoria F5](https://factoriaf5.org/)
+- Computer engineering student at [UOC](https://www.uoc.edu/portal/es/index.html)
 - Sociology degree at [UCM](https://www.ucm.es/estudios/grado-sociologia)
 - Social work degree at [UCM](https://trabajosocial.ucm.es/)
 
