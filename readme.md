@@ -93,21 +93,38 @@ Check out my repositories to see these technologies in action!
 </div>
 
 
----
-### Education
-- Artificial Intelligence and data analysis  at [Factoria F5](https://factoriaf5.org/)
-- Computer engineering student at [UOC](https://www.uoc.edu/portal/es/index.html)
-- Sociology degree at [UCM](https://www.ucm.es/estudios/grado-sociologia)
-- Social work degree at [UCM](https://trabajosocial.ucm.es/)
+## Education & Languages 🎓
 
-### Languages
 
-- Spanish
-- English
-- French
-- (learning German but is so hard)
-- Also learning Portuguese. So much easier and really beautiful
-
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="center">🎓 Education</h3>
+      <br>
+      <ul>
+        <li>📊 <b>AI & Data Analysis</b><br><i>Factoria F5</i></li>
+        <li>💻 <b>Computer Engineering</b> (Current)<br><i>Universitat Oberta de Catalunya</i></li>
+        <li>🔍 <b>Sociology</b><br><i>Universidad Complutense de Madrid</i></li>
+        <li>👥 <b>Social Work</b><br><i>Universidad Complutense de Madrid</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="center">🌎 Languages</h3>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spanish-Native-C70039?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjxwYXRoIGZpbGw9IiNjNzAwMzkiIGQ9Ik0wIDBoM3YyeiIvPjxwYXRoIGZpbGw9IiNmZmNjMDAiIGQ9Ik0wIDFoM3YxSDB6Ii8+PC9zdmc+" />
+        <br>
+        <img src="https://img.shields.io/badge/English-Advanced-2B65EC?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/French-Advanced-5CB8E4?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/German-Beginer-8B7D7B?style=for-the-badge" />
+        <br>
+        <img src="https://img.shields.io/badge/Portuguese-Beginer-2E8B57?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
   ---
 
  ### My stats
