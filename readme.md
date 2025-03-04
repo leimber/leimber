@@ -1,13 +1,22 @@
 # Leire Martin-Berdinos
 
+
+<div align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=C732D5&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Leimber;Social+Scientist+turned+Developer;AI+%26+Data+Science+Enthusiast;Bridging+Human+Needs+and+Tech;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Focus-AI%20Applications-brightgreen" />
+ <img src="https://img.shields.io/badge/Skills-Python%20%7C%20ML%20%7C%20Web%20Dev-blue" />
+ <img src="https://img.shields.io/badge/Background-Social%20Sciences%20to%20Tech-C732D5" />
+</p>
+
+
 Passionate about combining web development and AI/ML technologies to create innovative solutions. With a background in social sciences, I've successfully pivoted to tech, bringing a unique human-centered perspective to technical challenges.
 My transition from social sciences to technology has equipped me with both technical expertise and deep understanding of human behavior. This interdisciplinary background allows me to bridge the gap between complex technical solutions and genuine user needs, creating applications that are not only functional but truly meaningful.
 
 This technical expertise spans from web development to machine learning, enabling me to build end-to-end applications with integrated AI capabilities. I continuously explore emerging technologies while applying social insights to ensure technology serves human needs effectively.
 Check out my repositories to see these technologies in action!
-
-
-
 
 
 
