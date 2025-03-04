@@ -34,8 +34,8 @@ Check out my repositories to see these technologies in action!
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-### :hammer_and_wrench: Languages and Tools:
 
+### :hammer_and_wrench: Languages and Tools:
 <table>
   <tr>
     <td align="center" width="33%"><b>Data Analysis</b></td>
@@ -72,7 +72,7 @@ Check out my repositories to see these technologies in action!
   <tr>
     <td align="center"><b>Web Development</b></td>
     <td align="center"><b>Core Tools</b></td>
-    <td></td>
+    <td align="center"><b>Cloud</b></td>
   </tr>
   <tr>
     <td>
@@ -89,19 +89,19 @@ Check out my repositories to see these technologies in action!
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     </td>
-    <td></td>
+    <td>
+      
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+    </td>
   </tr>
 </table>
-
-
-
 ---
 
 
 
 
 ## Education & Languages 🎓
-
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -110,6 +110,7 @@ Check out my repositories to see these technologies in action!
       <br>
       <ul>
         <li>📊 <b>AI & Data Analysis</b><br><i>Factoria F5</i></li>
+        <li>☁️ <b>Cloud Computing AWS</b><br><i>Hackaboss</i></li>
         <li>💻 <b>Computer Engineering</b> (Current)<br><i>Universitat Oberta de Catalunya</i></li>
         <li>🔍 <b>Sociology</b><br><i>Universidad Complutense de Madrid</i></li>
         <li>👥 <b>Social Work</b><br><i>Universidad Complutense de Madrid</i></li>
