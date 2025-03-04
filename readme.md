@@ -18,17 +18,22 @@ My transition from social sciences to technology has equipped me with both techn
 This technical expertise spans from web development to machine learning, enabling me to build end-to-end applications with integrated AI capabilities. I continuously explore emerging technologies while applying social insights to ensure technology serves human needs effectively.
 Check out my repositories to see these technologies in action!
 
-### Let's contact
-<div align="left"> 
-  <a href="mailto:leire.martinb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+### Let's Connect 📬
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leiremberdinos/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://www.linkedin.com/in/leiremberdinos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  &nbsp;&nbsp;
+  <a href="mailto:leire.martinb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 ### :hammer_and_wrench: Languages and Tools:
 
 <table>
