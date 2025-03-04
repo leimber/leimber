@@ -18,6 +18,16 @@ My transition from social sciences to technology has equipped me with both techn
 This technical expertise spans from web development to machine learning, enabling me to build end-to-end applications with integrated AI capabilities. I continuously explore emerging technologies while applying social insights to ensure technology serves human needs effectively.
 Check out my repositories to see these technologies in action!
 
+### Let's contact
+<div align="left"> 
+  <a href="mailto:leire.martinb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://www.linkedin.com/in/leiremberdinos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -82,15 +92,7 @@ Check out my repositories to see these technologies in action!
 
 ---
 
-### Let's contact
-<div align="left"> 
-  <a href="mailto:leire.martinb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="[https://www.linkedin.com/in/leiremberdinos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
-  </a>
-</div>
+
 
 
 ## Education & Languages 🎓
